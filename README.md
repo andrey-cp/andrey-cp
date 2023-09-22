@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Andrey</h1>
+<h1 align="center">Olá 👋, Eu sou o Andrey</h1>
 <h3 align="center">Bacharel em Ciência da Computação pela UFRRJ e entusiasta da área de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning e SQL**
